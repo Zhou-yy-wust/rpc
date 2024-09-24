@@ -53,4 +53,3 @@ Once compiled, you can start the server and client using the following commands:
 ## Configuration
 
 Please ensure that the parameters for the server and client are correctly configured in the `./bin/test.yaml` file so that they can connect and communicate properly.
-
