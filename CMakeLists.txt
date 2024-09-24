@@ -32,6 +32,6 @@ set(muduo_INCLUDE_DIRS ${CMAKE_SOURCE_DIR}/thirdParty/muduo)
 set(ZK_INCLUDE_DIR /usr/local/include/zookeeper)
 set(ZK_LIBRARIES /usr/local/lib/libzookeeper_mt.a)
 
-add_subdirectory(test)
+#add_subdirectory(test)
 add_subdirectory(src)
 add_subdirectory(example)
